@@ -1,0 +1,15 @@
+Criando arquivos gitignore
+ https://www.toptal.com/developers/gitignore
+   palavras digita java e clica na sujestão
+                   intelij
+                   eclipse
+                   visualstudiocode
+
+ctrl + k abre a tela para fazzer o commit
+ seleciona a caixinha Unversioned Files
+ digitar a mensagem do commit
+ clicar em commit and push
+ Aparecerá uma caixa de dialogo 
+  master->Define remote  (Clicar em define remote)
+  colocar a url do repositório do github e clica em ok
+     clica em push.

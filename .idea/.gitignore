@@ -1,7 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.informações.txt
+*.informações.txt
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse,visualstudiocode
