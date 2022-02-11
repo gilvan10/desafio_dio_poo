@@ -13,3 +13,9 @@ ctrl + k abre a tela para fazzer o commit
   master->Define remote  (Clicar em define remote)
   colocar a url do repositorio do github e clica em ok
      clica em push.
+
+
+Modificadores
+  public todo mundo tem acesso
+  protected só acessa a classe e seus filhos
+  private sá a classe tem acesso
